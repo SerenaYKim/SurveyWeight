@@ -1,2 +1,2 @@
 # Survey Weights
-Survey weights for correcting non-response bias 
+Survey weights: Correcting non-response bias 
